@@ -7,5 +7,5 @@
 			<fish>1</fish>
 </Pets>
 <Salary>
-	<Expected>1000$"</Expected>
+	<Expected>"1000$"</Expected>
 </Salary>
