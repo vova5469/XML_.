@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bug_report>
   <Bug_id>1</Bug_id>
-  <Title>The_SAVE_DATA_button_is smaller_than_the_others</Title>
-  <Severity>trivial</Severity>
-  <Priority>low</Priority>
-  <Environment>Redmi_Note_10Pro</Environment>
-  <AR>The_application_buttons_have_one_view</AR>
-  <ER>SAVE_DATA_button_is_smaller_than_the_others</ER>
+  <Title>"The_SAVE_DATA_button_is smaller_than_the_others"</Title>
+  <Severity>"trivial"</Severity>
+  <Priority>"low"</Priority>
+  <Environment>"Redmi_Note_10Pro"</Environment>
+  <AR>"The_application_buttons_have_one_view"</AR>
+  <ER>"SAVE_DATA_button_is_smaller_than_the_others"</ER>
 </Bug_report>
