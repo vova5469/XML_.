@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bug_report>
-  <Bug_id>"1"</Bug_id>
+  <Bug_id>1</Bug_id>
   <Title>The SAVE DATA button is smaller than the others</Title>
   <Severity>trivial</Severity>
   <Priority>low</Priority>
-  <Environment>"Redmi Note 10Pro</Environment>
+  <Environment>"Redmi Note 10 Pro"</Environment>
   <AR>The application buttons have one view</AR>
   <ER>SAVE DATA button is smaller than the_others</ER>
 </Bug_report>
