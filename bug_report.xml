@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Bug_report>
   <Bug_id>1</Bug_id>
-  <Title>The SAVE DATA button is smaller than the others</Title>
+  <Status>new</Status>
   <Severity>trivial</Severity>
   <Priority>low</Priority>
+  <Title>The SAVE DATA button is smaller than the others</Title>
   <Environment>"Redmi Note 10 Pro"</Environment>
-  <AR>The application buttons have one view</AR>
+  <Precondition>To Do List app installed</Precondition>
+<Steps>
+  <Number_1>Open To Do List app</Number_1>
+  <Number_2>Open New List page</Number_2>
+  <Number_3>Enter any text</Number_3>
+</Steps>
   <ER>SAVE DATA button is smaller than the_others</ER>
+  <AR>The application buttons have one view</AR>
 </Bug_report>
